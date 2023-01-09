@@ -1,0 +1,3 @@
+[submodule "Chapter 02/pytorch_datasets"]
+	path = Chapter 02/pytorch_datasets
+	url = git@github.com:marcelotournier/pytorch_datasets.git
